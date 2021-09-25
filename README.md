@@ -1,11 +1,8 @@
-#  SOCIAL INDUSTRY REACT PROJECT
-
-
+# SOCIAL INDUSTRY REACT PROJECT
 
 ## Visit Live link here
 
-[social-industry.com](https://.netlify.app/) 
-
+[social-industry.com](https://social-industry-react-project.netlify.app/)
 
 ## Purpose
 
@@ -13,20 +10,12 @@
 1.  SOCIAL INDUSTRY! it is our social web platform .
 
 2. We provide the social services and try to give our best as-if our client will be helpful.
-  
+
 3. Here is the annual services and team members cost, if you are interested just visit our site and read the site docs.
 
-Thanks Dear | sir 
+Thanks Dear | sir
 
 ```
-
-
-
-
-
-
-
-
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
