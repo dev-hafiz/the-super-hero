@@ -1,0 +1,14 @@
+.cart-info-style {
+     width: 400px;
+     padding: 20px;
+     text-align: start;
+     background: #faf8f8;
+     margin: 22px;
+     border-radius: 10px;
+     box-shadow: 10px 10px 10px wheat;
+ }
+ 
+ .icon {
+     font-size: 29px;
+     color: #242424;
+ }

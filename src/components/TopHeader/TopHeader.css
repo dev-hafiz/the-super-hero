@@ -1,0 +1,30 @@
+.Top-header{
+     display: grid;
+     grid-template-columns: 2fr 3fr;
+     height: 200px;
+     background: #eee;
+     align-items: center;
+}
+.left-side-header {
+     margin-left: 80px;
+     text-align: center;
+     border-right: 1px solid black;
+     margin-right: 10px;
+ }
+ .right-side-header {
+     margin-left: 9px;
+ }
+.left-side-header > h3 {
+     font-family: fantasy;
+     font-size: 24px;
+     font-weight: normal;
+     letter-spacing: .5px;
+ }
+ span{
+      font-weight: bold;
+ }
+ h3.cost {
+     font-size: 29px;
+     font-weight: 800;
+     font-family: ui-serif;
+ }

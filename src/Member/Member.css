@@ -1,0 +1,23 @@
+.member-cart img {
+     border-radius: 50%;
+ }
+
+ .member-cart {
+     text-align: center;
+     background: #eee;
+     margin: 8px;
+     padding: 24px 38px;
+     color: #1a1a1b;
+     line-height: 17px;
+     border-radius: 20px;
+ }
+ button.btn-work-primary {
+     border: none;
+     background: #1a1a1b;
+     color: white;
+     outline: none;
+     padding: 8px 50px;
+     text-align: center;
+     border-radius: 5px;
+ }
+

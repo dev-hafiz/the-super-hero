@@ -1,0 +1,10 @@
+.cart-container{
+     text-align: center;
+}
+.team-members-container{
+     padding: 20px 80px;
+}
+.member-service{
+     display: grid;
+     grid-template-columns: repeat(4, 1fr);
+}

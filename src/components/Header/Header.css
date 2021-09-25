@@ -1,0 +1,27 @@
+nav{
+     display: flex;
+     align-items: center;
+     justify-content: space-between;
+     background-color: #1a1a1b;
+     color: whitesmoke;
+     padding: 0 80px;
+}
+.nav a {
+     color: whitesmoke;
+     text-decoration: none;
+     margin-right: 26px;
+     font-size: 15px;
+     font-weight: 600;
+     transition: linear .3s;
+ }
+
+.nav a:hover{
+     color: wheat;
+}
+
+.logo > h2 {
+     text-transform: uppercase;
+     font-family: sans-serif;
+     text-shadow: 2px 2px 4px wheat;
+     font-size: 22px;
+ }
